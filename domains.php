@@ -18,7 +18,6 @@ return [
     'miniggiodev.fr',
     'pierre.uno',
     'pierre.tw',
-    'pierrecalcaire.com',
     'pierreminiggio.com',
     'pierreminiggio.fr'
 ];
