@@ -10,6 +10,7 @@ $listDomain = 'domains.ggio.fr';
 ?>
 <head>
     <title><?php echo count($domains); ?> noms de domaine réservés par Pierre</title>
+    <link rel="canonical" href="https://<?php echo $listDomain; ?>" >
 </head>
 <body>
     <h1 style="font-size: 1.3rem"><?php echo count($domains); ?> noms de domaine réservés par <a href="https://miniggiodev.fr" target="blank">Pierre</a> :</h1>
