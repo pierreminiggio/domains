@@ -17,7 +17,6 @@ return [
     'miniggio.org',
     'miniggio.uno',
     'miniggiodev.fr',
-    'pierre.uno',
     'pierre.tw',
     'pierreminiggio.com',
     'pierreminiggio.fr'
