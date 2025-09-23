@@ -9,7 +9,7 @@ $listDomain = 'domains.ggio.fr';
 
 ?>
 <head>
-    <title><?php echo count($domains); ?> noms de domaine réservés par Pierre</title>
+    <title><?php echo count($domains); ?> noms de domaine réservés par Pierre / MiniggioTech OÜ</title>
     <link rel="canonical" href="https://<?php echo $listDomain; ?>" >
 </head>
 <body>
