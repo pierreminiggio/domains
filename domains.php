@@ -9,7 +9,6 @@ return [
     'ggio.org',
     'ggio.space',
     'gitgud.fr',
-    'liu66.fr',
     'miniggio.be',
     'miniggio.de',
     'miniggio.dev',
